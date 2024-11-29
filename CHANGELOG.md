@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/aqpower/obsidian-Latex2MathJax/compare/1.1.0...1.1.1) (2024-11-29)
+
+
+### Bug Fixes
+
+* :rotating_light: 修复了无法正常粘贴文本😢的bug ([b2ce5db](https://github.com/aqpower/obsidian-Latex2MathJax/commit/b2ce5db4e0a0e44429aed2cfe32759b34508455c))
+
 ## [1.1.0](https://github.com/aqpower/obsidian-Latex2MathJax/compare/1.0.0...1.1.0) (2024-11-26)
 
 
